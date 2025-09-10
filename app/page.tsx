@@ -118,7 +118,7 @@ export default function Page() {
         <div className="relative z-1 max-w-2xl">
           <h2 className="text-4xl md:text-6xl font-bold mb-6">More Than Day</h2>
           <p className="text-white leading-relaxed text-center text-lg">
-            사명인 'MoreThanDay'는 평범한 하루 속에서,
+            저희 이름인 &quot;MoreThanDay&quot;는 평범한 하루 속에서,
             <br className="hidden md:block" />
             우리의 서비스가 사용자들의 일상과 삶에 깊이 스며들어,
             <br className="hidden md:block" />더 풍요롭고 의미 있는 경험을
